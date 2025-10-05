@@ -1,69 +1,69 @@
-                                 Apache License
-                           Version 2.0, January 2004
-                        http://www.apache.org/licenses/
+阿帕奇许可证
+版本2.0，2004年1月
+http://www.apache.org/licenses/
 
-   TERMS AND CONDITIONS FOR USE, REPRODUCTION, AND DISTRIBUTION
+使用、复制和分发条款和条件
 
-   1. Definitions.
+1.定义。
 
-      "License" shall mean the terms and conditions for use, reproduction,
-      and distribution as defined by Sections 1 through 9 of this document.
+“许可证”是指使用、复制、
+以及本文件第1节至第9节规定的分销。
 
-      "Licensor" shall mean the copyright owner or entity authorized by
-      the copyright owner that is granting the License.
+“许可方”是指版权所有人或授权的实体
+授予许可证的版权所有者。
 
-      "Legal Entity" shall mean the union of the acting entity and all
-      other entities that control, are controlled by, or are under common
-      control with that entity. For the purposes of this definition,
-      "control" means (i) the power, direct or indirect, to cause the
-      direction or management of such entity, whether by contract or
-      otherwise, or (ii) ownership of fifty percent (50%) or more of the
-      outstanding shares, or (iii) beneficial ownership of such entity.
+“法人实体”是指代理实体和所有
+控制、受控于或处于公共之下的其他实体
+控件。对于此定义，
+"控制"是指(i)直接或间接导致
+指导或管理该实体，无论是通过合同或
+否则，或(ii)拥有百分之五十(50%)或以上的
+已发行股份，或(iii)该实体的实益所有权.
 
-      "You" (or "Your") shall mean an individual or Legal Entity
-      exercising permissions granted by this License.
+“您”(或“您的”)是指个人或法人实体
+行使本许可证授予的权限。
 
-      "Source" form shall mean the preferred form for making modifications,
-      including but not limited to software source code, documentation
-      source, and configuration files.
+“来源”表应指进行修改的首选格式，
+包括但不限于软件源代码、文档
+源文件和配置文件。
 
-      "Object" form shall mean any form resulting from mechanical
-      transformation or translation of a Source form, including but
-      not limited to compiled object code, generated documentation,
-      and conversions to other media types.
+“目标”形式是指由机械产生的任何形式
+源表单的转换或翻译，包括
+不限于编译的目标代码、生成的文档、
+以及转换为其他媒体类型。
 
-      "Work" shall mean the work of authorship, whether in Source or
-      Object form, made available under the License, as indicated by a
-      copyright notice that is included in or attached to the work
-      (an example is provided in the Appendix below).
+“作品”系指原创作品，无论是源或源
+对象形式，根据许可证提供，如
+包括在作品中或附加在作品中的版权通知
+(以下附录中提供了一个示例)。
 
-      "Derivative Works" shall mean any work, whether in Source or Object
-      form, that is based on (or derived from) the Work and for which the
-      editorial revisions, annotations, elaborations, or other modifications
-      represent, as a whole, an original work of authorship. For the purposes
-      of this License, Derivative Works shall not include works that remain
-      separable from, or merely link (or bind by name) to the interfaces of,
-      the Work and Derivative Works thereof.
+“衍生作品”是指任何作品，无论是源作品还是对象作品
+以工程为基础(或衍生自工程)，且
+编辑性修订、注释、阐述或其他修改
+整体代表原创作品。
+衍生作品不包括剩余的作品
+可与的接口分离，或仅链接(或通过名称绑定)到的接口，
+作品及其衍生作品。
 
-      "Contribution" shall mean any work of authorship, including
-      the original version of the Work and any modifications or additions
-      to that Work or Derivative Works thereof, that is intentionally
-      submitted to Licensor for inclusion in the Work by the copyright owner
-      or by an individual or Legal Entity authorized to submit on behalf of
-      the copyright owner. For the purposes of this definition, "submitted"
-      means any form of electronic, verbal, or written communication sent
-      to the Licensor or its representatives, including but not limited to
-      communication on electronic mailing lists, source code control systems,
-      and issue tracking systems that are managed by, or on behalf of, the
-      Licensor for the purpose of discussing and improving the Work, but
-      excluding communication that is conspicuously marked or otherwise
-      designated in writing by the copyright owner as "Not a Contribution."
+“贡献”是指任何署名作品，包括
+工程的原始版本以及任何修改或添加
+该作品或其衍生作品，故意
+版权所有人提交给许可方以纳入作品
+或授权代表提交的个人或法人实体
+版权所有者。 就本定义而言，"提交的"
+指发送的任何形式的电子、口头或书面通信
+许可方或其代表，包括但不限于
+电子邮件列表、源代码控制系统、
+和问题跟踪系统，这些问题跟踪系统由
+许可方讨论和改进本工程，但
+不包括有明显标记或其他方式的通信
+版权所有人书面指定为“非供稿”。
 
-      "Contributor" shall mean Licensor and any individual or Legal Entity
-      on behalf of whom a Contribution has been received by Licensor and
-      subsequently incorporated within the Work.
+“贡献者”是指许可方和任何个人或法人实体
+许可方已代表其收到出资，且
+随后纳入本工程。
 
-   2. Grant of Copyright License. Subject to the terms and conditions of
+2.版权许可的授予。受以下条款和条件的约束
       this License, each Contributor hereby grants to You a perpetual,
       worldwide, non-exclusive, no-charge, royalty-free, irrevocable
       copyright license to reproduce, prepare Derivative Works of,
@@ -123,79 +123,79 @@
       You may add Your own copyright statement to Your modifications and
       may provide additional or different license terms and conditions
       for use, reproduction, or distribution of Your modifications, or
-      for any such Derivative Works as a whole, provided Your use,
-      reproduction, and distribution of the Work otherwise complies with
-      the conditions stated in this License.
+对于任何此类衍生作品作为一个整体，如果您使用，
+本作品的复制和分发应符合
+本许可证中规定的条件。
 
-   5. Submission of Contributions. Unless You explicitly state otherwise,
-      any Contribution intentionally submitted for inclusion in the Work
-      by You to the Licensor shall be under the terms and conditions of
-      this License, without any additional terms or conditions.
-      Notwithstanding the above, nothing herein shall supersede or modify
-      the terms of any separate license agreement you may have executed
-      with Licensor regarding such Contributions.
+5.提交出资。除非您另有明确说明，
+有意提交以纳入本工程的任何投稿
+您向许可方提供的信息应符合以下条款和条件：
+本许可证，无任何附加条款或条件。
+尽管有上述规定，本协议中的任何内容均不得取代或修改
+您可能已执行的任何单独许可协议的条款
+与许可方就该等出资进行协商。
 
-   6. Trademarks. This License does not grant permission to use the trade
-      names, trademarks, service marks, or product names of the Licensor,
+6.商标。本许可证不授予使用该行业的许可
+许可方的名称、商标、服务标志或产品名称，
       except as required for reasonable and customary use in describing the
       origin of the Work and reproducing the content of the NOTICE file.
 
    7. Disclaimer of Warranty. Unless required by applicable law or
       agreed to in writing, Licensor provides the Work (and each
       Contributor provides its Contributions) on an "AS IS" BASIS,
-      WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or
-      implied, including, without limitation, any warranties or conditions
-      of TITLE, NON-INFRINGEMENT, MERCHANTABILITY, or FITNESS FOR A
-      PARTICULAR PURPOSE. You are solely responsible for determining the
-      appropriateness of using or redistributing the Work and assume any
-      risks associated with Your exercise of permissions under this License.
+无任何形式的担保或条件，明示或
+默示的，包括但不限于任何保证或条件
+所有权、非侵权性、适销性或适用性
+特殊目的。您全权负责确定
+使用或重新分配工作的适当性，并假设
+与您根据本许可证行使权限相关的风险。
 
-   8. Limitation of Liability. In no event and under no legal theory,
-      whether in tort (including negligence), contract, or otherwise,
-      unless required by applicable law (such as deliberate and grossly
-      negligent acts) or agreed to in writing, shall any Contributor be
-      liable to You for damages, including any direct, indirect, special,
-      incidental, or consequential damages of any character arising as a
-      result of this License or out of the use or inability to use the
-      Work (including but not limited to damages for loss of goodwill,
-      work stoppage, computer failure or malfunction, or any and all
-      other commercial damages or losses), even if such Contributor
-      has been advised of the possibility of such damages.
+8.责任限制。 在任何情况下，在任何法律理论下，
+无论是侵权行为(包括过失)、合同还是其他，
+除非适用法律要求(如故意和粗暴
+过失行为)或书面同意，任何出资人
+向您承担损害赔偿责任，包括任何直接、间接、特殊、
+任何性质的附带或间接损害
+本许可证或因使用或无法使用
+工作(包括但不限于商誉损失，
+停工、计算机故障或故障，或任何和所有
+其他商业损害或损失)，即使此类贡献者
+已被告知此类损害的可能性。
 
-   9. Accepting Warranty or Additional Liability. While redistributing
-      the Work or Derivative Works thereof, You may choose to offer,
-      and charge a fee for, acceptance of support, warranty, indemnity,
-      or other liability obligations and/or rights consistent with this
-      License. However, in accepting such obligations, You may act only
-      on Your own behalf and on Your sole responsibility, not on behalf
-      of any other Contributor, and only if You agree to indemnify,
-      defend, and hold each Contributor harmless for any liability
-      incurred by, or claims asserted against, such Contributor by reason
-      of your accepting any such warranty or additional liability.
+9.接受保修或附加责任。 重新分配时
+作品或其衍生作品，您可以选择提供，
+并收取费用，接受支持，保修，赔偿，
+或与此一致的其他责任义务和/或权利
+许可证。 但是，在接受这些义务时，您只能
+代表您自己，并由您全权负责，而不是代表您
+任何其他出资人，且仅在您同意赔偿的情况下，
+为每位贡献者辩护，并使其免于承担任何责任
+该出资人因其原因招致的或对其提出的索赔
+贵方接受任何此类担保或附加责任。
 
-   END OF TERMS AND CONDITIONS
+条款和条件结束
 
-   APPENDIX: How to apply the Apache License to your work.
+附录：如何将阿帕奇许可证应用于您的工作。
 
-      To apply the Apache License to your work, attach the following
-      boilerplate notice, with the fields enclosed by brackets "[]"
-      replaced with your own identifying information. (Don't include
-      the brackets!)  The text should be enclosed in the appropriate
-      comment syntax for the file format. We also recommend that a
-      file or class name and description of purpose be included on the
-      same "printed page" as the copyright notice for easier
-      identification within third-party archives.
+要将阿帕奇许可证应用于您的工作，请附加以下内容
+样板通知，字段用括号“[]”括起来
+替换为您自己的标识信息。 (不包括
+括号！) 文本应包含在适当的
+文件格式的注释语法。 我们还建议
+文件或类名称和用途说明应包含在
+与版权声明相同的“印刷页”更容易
+第三方档案中的标识。
 
-   Copyright [yyyy] [name of copyright owner]
+   Copyright [2025] [乐下心空]
 
-   Licensed under the Apache License, Version 2.0 (the "License");
-   you may not use this file except in compliance with the License.
-   You may obtain a copy of the License at
+根据阿帕奇许可证2.0版(“许可证”)获得许可；
+除非符合许可证，否则不得使用此文件。
+您可通过以下网址获取许可证副本：
 
-       http://www.apache.org/licenses/LICENSE-2.0
+http://www.apache.org/licenses/LICENSE-2.0
 
-   Unless required by applicable law or agreed to in writing, software
-   distributed under the License is distributed on an "AS IS" BASIS,
-   WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
-   See the License for the specific language governing permissions and
-   limitations under the License.
+除非适用法律要求或书面同意，软件
+在许可证下发布的是按“原样”发布的，
+无任何明示或暗示的担保或条件。
+有关管理权限的特定语言和
+许可证的限制。
