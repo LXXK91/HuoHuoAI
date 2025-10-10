@@ -1,0 +1,30 @@
+{
+  "name": "huohuo-voice-chat",
+  "version": "1.0.0",
+  "description": "藿藿语音对话应用",
+  "main": "main.js",
+  "scripts": {
+    "dev:h5": "uni build --target h5 --mode development --watch",
+    "build:h5": "uni build --target h5 --mode production",
+    "dev:mp-weixin": "uni build --target mp-weixin --mode development --watch",
+    "build:mp-weixin": "uni build --target mp-weixin --mode production",
+    "dev:app": "uni build --target app --mode development --watch",
+    "build:app": "uni build --target app --mode production"
+  },
+  "dependencies": {
+    "vue": "^3.0.0"
+  },
+  "devDependencies": {
+    "@dcloudio/uni-cli-shared": "^3.0.0",
+    "@dcloudio/vite-plugin-uni": "^3.0.0",
+    "vite": "^2.9.0"
+  },
+  "keywords": [
+    "uni-app",
+    "vue3",
+    "voice-chat",
+    "huohuo"
+  ],
+  "author": "",
+  "license": "MIT"
+}
